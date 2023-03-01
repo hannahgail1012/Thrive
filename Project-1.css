@@ -1,0 +1,51 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	background-color: #EAF3DD;
+		margin: 30pt;
+}
+
+ul {
+	font-family: gill sans;
+	font-size: 20pt;
+	color: #006838;
+	margin: auto;
+	width: 375pt;
+}
+
+li{
+	display: inline;
+	margin: 10pt;
+	
+}
+
+.active {
+	background-color: #006838;
+	color: #EAF3DD;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+	font-family: gill sans;
+	font-size: 30pt;
+	color: #006838;
+	
+}
+
+h4 {
+	font-family: baskerville;
+	font-size: 11pt;
+	color: #02341B;
+}
+
+p {
+	font-family: baskerville;
+	font-size: 11pt;
+	color: #02341B;
+	line-height: 25px;
+}
